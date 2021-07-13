@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.3-building-blocks-of-power-bi
+metadata:
+  title: Blok penyusun Power BI
+  description: Blok penyusun Power BI
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 57b3d0126ae869941fcceb4099fdeb8dd769f67f
+  ms.sourcegitcommit: de07ea2e336f59d40d519e140bd45151f4b1083a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 06/29/2021
+  ms.locfileid: "113101919"
+title: Blok penyusun Power BI
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/3-building-blocks-of-power-bi.md)]
