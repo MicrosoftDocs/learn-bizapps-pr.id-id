@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.4-exercise-touring-and-using-power-bi
+metadata:
+  title: Tur dan menggunakan layanan Power BI
+  description: Tur dan menggunakan layanan Power BI
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 632a3111ddc3ba2a30d6b830f5d8132c516208fc
+  ms.sourcegitcommit: de07ea2e336f59d40d519e140bd45151f4b1083a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 06/29/2021
+  ms.locfileid: "113101919"
+title: Tur dan menggunakan layanan Power BI
+durationInMinutes: 12
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/4-exercise-touring-and-using-power-bi.md)]

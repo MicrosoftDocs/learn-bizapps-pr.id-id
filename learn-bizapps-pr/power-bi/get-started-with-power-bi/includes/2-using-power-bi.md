@@ -1,0 +1,22 @@
+---
+ms.openlocfilehash: 27e1f57827ac2c7e05f757d8e95b45f7978df499
+ms.sourcegitcommit: de07ea2e336f59d40d519e140bd45151f4b1083a
+ms.translationtype: HT
+ms.contentlocale: id-ID
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113101919"
+---
+<span data-ttu-id="f14f9-101">Sekarang setelah kami memperkenalkan dasar-dasar Microsoft Power BI, mari kita terjun ke pengalaman langsung dan mengikuti tur panduan.</span><span class="sxs-lookup"><span data-stu-id="f14f9-101">Now that we've introduced the basics of Microsoft Power BI, let's jump into some hands-on experiences and a guided tour.</span></span>
+
+<span data-ttu-id="f14f9-102">Aktivitas dan analisis yang akan Anda pelajari menggunakan Power BI biasanya mengikuti alur umum.</span><span class="sxs-lookup"><span data-stu-id="f14f9-102">The activities and analyses that you'll learn with Power BI generally follow a common flow.</span></span> <span data-ttu-id="f14f9-103">**Alur umum** aktivitas terjadi seperti ini:</span><span class="sxs-lookup"><span data-stu-id="f14f9-103">The **common flow** of activity looks like this:</span></span>
+
+1. <span data-ttu-id="f14f9-104">Memasukkan data ke Power BI Desktop dan membuat laporan.</span><span class="sxs-lookup"><span data-stu-id="f14f9-104">Bring data into Power BI Desktop and create a report.</span></span>
+2. <span data-ttu-id="f14f9-105">Menerbitkan laporan ke layanan Power BI, tempat Anda dapat membuat visualisasi baru atau menyusun dasbor.</span><span class="sxs-lookup"><span data-stu-id="f14f9-105">Publish to the Power BI service, where you can create new visualizations or build dashboards.</span></span>
+3. <span data-ttu-id="f14f9-106">Membagikan dasbor dengan orang lain, terutama orang-orang yang sedang bepergian.</span><span class="sxs-lookup"><span data-stu-id="f14f9-106">Share dashboards with others, especially people who are on the go.</span></span>
+4. <span data-ttu-id="f14f9-107">Menampilkan dan berinteraksi dengan dasbor dan laporan bersama di aplikasi Power BI Mobile.</span><span class="sxs-lookup"><span data-stu-id="f14f9-107">View and interact with shared dashboards and reports in Power BI Mobile apps.</span></span>
+
+![Gambar siklus penggunaan Power BI dari Power BI Desktop, ke layanan Power BI, lalu ke Power BI Mobile.](../media/pbi-using_01.png)
+
+<span data-ttu-id="f14f9-109">Seperti yang telah disebutkan sebelumnya, Anda mungkin menghabiskan seluruh waktu Anda di **layanan Power BI**, menampilkan visual dan laporan yang telah dibuat oleh orang lain.</span><span class="sxs-lookup"><span data-stu-id="f14f9-109">As mentioned earlier, you might spend all of your time in the **Power BI service**, viewing visuals and reports that have been created by others.</span></span> <span data-ttu-id="f14f9-110">Hal ini bukanlah sebuah masalah.</span><span class="sxs-lookup"><span data-stu-id="f14f9-110">And that's fine.</span></span> <span data-ttu-id="f14f9-111">Orang lain di tim Anda mungkin menghabiskan waktu mereka di **Power BI Desktop**, yang juga bukan merupakan sebuah masalah.</span><span class="sxs-lookup"><span data-stu-id="f14f9-111">Someone else on your team might spend their time in **Power BI Desktop**, which is fine too.</span></span> <span data-ttu-id="f14f9-112">Untuk membantu Anda memahami kontinum penuh Power BI dan apa yang dapat dilakukannya, kami akan menunjukkan semuanya kepada Anda.</span><span class="sxs-lookup"><span data-stu-id="f14f9-112">To help you understand the full continuum of Power BI and what it can do, we'll show you all of it.</span></span> <span data-ttu-id="f14f9-113">Kemudian, Anda dapat memutuskan cara menggunakan Power BI untuk keuntungan terbaik Anda.</span><span class="sxs-lookup"><span data-stu-id="f14f9-113">Then you can decide how to use it to your best advantage.</span></span>
+
+<span data-ttu-id="f14f9-114">Jadi, mari segera mempelajarinya.</span><span class="sxs-lookup"><span data-stu-id="f14f9-114">So, let's jump in and step through the experience.</span></span> <span data-ttu-id="f14f9-115">Urutan pertama bisnis Anda adalah mempelajari blok penyusun dasar Power BI, yang akan memberikan dasar kuat untuk mengubah data menjadi laporan dan visual yang keren.</span><span class="sxs-lookup"><span data-stu-id="f14f9-115">Your first order of business is to learn the basic building blocks of Power BI, which will provide a solid basis for turning data into cool reports and visuals.</span></span>

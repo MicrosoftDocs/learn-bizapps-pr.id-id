@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.6-get-started-with-power-bi-quiz
+metadata:
+  title: 'Uji pengetahuan: Memulai dengan Power BI'
+  description: Pemeriksaan pengetahuan ini menguji pengetahuan Anda tentang memulai dengan Power BI.
+  ms.date: 02/01/2019
+  author: davidiseminger
+  ms.author: davidi
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 066a04920b35a94c271a0fbd3265b95ae4ab4e3b
+  ms.sourcegitcommit: de07ea2e336f59d40d519e140bd45151f4b1083a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 06/29/2021
+  ms.locfileid: "113101919"
+title: Uji pengetahuan Anda
+durationInMinutes: 3
+quiz:
+  title: 'Uji pengetahuan: Memulai dengan Power BI'
+  questions:
+  - content: Apa alur aktivitas umum di Power BI?
+    choices:
+    - content: Membuat laporan di Power BI seluler, membagikan ke Power BI Desktop, menampilkan dan berinteraksi di layanan Power BI.
+      explanation: Anda tidak dapat membuat laporan di Power BI seluler; Anda membuat laporan di Power BI Desktop.
+      isCorrect: false
+    - content: Membuat laporan di layanan Power BI, membagikan ke Power BI seluler, menampilkan dan berinteraksi di Power BI Desktop.
+      explanation: Alur aktivitas umum di Power BI tidak dimulai dengan membuat laporan di layanan Power BI. Umumnya, alur dimulai dengan membuat laporan di Power BI Desktop.
+      isCorrect: false
+    - content: Memasukkan data ke Power BI Desktop dan membuat laporan, membagikannya ke layanan Power BI, menampilkan dan berinteraksi dengan laporan dan dasbor di layanan dan Power BI seluler.
+      explanation: Layanan Power BI memungkinkan Anda menampilkan dan berinteraksi dengan laporan dan dasbor, tetapi tidak memungkinkan Anda mengolah data.
+      isCorrect: true
+    - content: Memasukkan data ke Power BI seluler, membuat laporan, lalu membagikannya ke Power BI Desktop.
+      explanation: Anda tidak dapat memasukkan data langsung ke Power BI seluler, Anda menyambungkan ke data dan membuat laporan di Power BI Desktop.
+      isCorrect: false
+  - content: Mana di antara berikut ini yang merupakan blok penyusun Power BI?
+    choices:
+    - content: Petak peta, dasbor, database, perangkat seluler.
+      explanation: Petak peta dan dasbor adalah blok penyusun Power BI, meskipun database dan perangkat seluler penting, keduanya tidak termasuk dalam blok penyusun.
+      isCorrect: false
+    - content: Visualisasi, himpunan data, laporan, dasbor, petak peta.
+      explanation: Blok penyusun untuk Power BI adalah visualisasi, himpunan data, laporan, dasbor, petak peta.
+      isCorrect: true
+    - content: File Visual Studio, C#, dan JSON.
+      explanation: Power BI memudahkan pembuatan laporan dan berinteraksi dengan data, serta tidak bergantung pada bahasa atau alat pengembangan.
+      isCorrect: false
+  - content: Disebut apakah kumpulan visual siap pakai, dasbor dan laporan yang sudah disusun sebelumnya di Power BI?
+    choices:
+    - content: Kanvas.
+      explanation: Kanvas adalah area di tengah Power BI Desktop atau layanan Power BI dan area ini kosong hingga Anda membuat visual atau laporan.
+      isCorrect: false
+    - content: Refresh terjadwal.
+      explanation: Refresh terjadwal memungkinkan Anda memperbarui data untuk himpunan data secara otomatis, tetapi bukan kumpulan visual siap pakai.
+      isCorrect: false
+    - content: Aplikasi.
+      explanation: Aplikasi adalah kumpulan visual siap pakai, yang sudah disusun sebelumnya di dasbor dan laporan. Anda bisa mendapatkan aplikasi yang tersambung ke banyak layanan online dari AppSource.
+      isCorrect: true

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.5-summary-cleanup
+metadata:
+  title: Ringkasan
+  description: Ringkasan
+  ms.date: 02/01/2019
+  author: margoc
+  ms.author: margoc
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: 1cc5e6dcd8dec80df20e438173f2d83c8bf5479a
+  ms.sourcegitcommit: de07ea2e336f59d40d519e140bd45151f4b1083a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 06/29/2021
+  ms.locfileid: "113101919"
+title: Ringkasan
+durationInMinutes: 5
+content: >-
+  [!include[](../includes/unit-banner.md)]
+
+  [!include[](includes/5-summary-cleanup.md)]
