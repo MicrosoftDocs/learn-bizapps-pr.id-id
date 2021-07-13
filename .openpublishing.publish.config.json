@@ -29,11 +29,12 @@
     "live-sxs",
     "main-sxs"
   ],
+  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/learn-bizapps.de-de",
+  "git_repository_branch_open_to_public_contributors": "master",
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "enable_incremental_build": false,
-  "contribution_branch_mappings": {},
+   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
