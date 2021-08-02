@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 8ab4efa33ffa0844aa578b1318a02415c48782b1
-ms.sourcegitcommit: de07ea2e336f59d40d519e140bd45151f4b1083a
+ms.openlocfilehash: 06d47a9fb3a342dff6f901428fa9444fed86d525
+ms.sourcegitcommit: fc256996a5a1e957e7e8470042c8d7e3e88c262e
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113101919"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "114653830"
 ---
 **Microsoft Power BI** adalah kumpulan layanan perangkat lunak, aplikasi, dan konektor yang berfungsi bersama untuk mengubah sumber data Anda yang tidak terkait menjadi wawasan yang koheren, imersif secara visual, serta interaktif. Baik data Anda adalah buku kerja Microsoft Excel sederhana, atau kumpulan gudang data hibrida berbasis cloud dan lokal, **Power BI** memungkinkan Anda terhubung ke sumber data, memvisualisasikan (atau menemukan) hal penting, dan membagikannya kepada siapa saja dengan mudah.
 
@@ -18,7 +18,7 @@ Jika Anda merupakan **pemula** dalam menggunakan Power BI, modul ini akan memban
 
 Berikut adalah laporan kerja Power BI. Jangan ragu untuk mengeklik dan menjelajahinya.
 
-<iframe width="1140" height="540" src=https://msit.powerbi.com/view?r=eyJrIjoiNGE0MTRiNDMtZWMyZS00MzVlLTgyMmQtYzI2MjM5Nzg4OTQwIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9 frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1140" height="540" src=https://msit.powerbi.com/view?r=eyJrIjoiNmYzNDVmOGItOWMzZi00OTI1LWFlNTctNDljMzAzMDIxNWUzIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9 frameborder="0" allowFullScreen="true"></iframe>
 
 ## <a name="the-parts-of-power-bi"></a>Bagian dari Power BI
 Power BI terdiri dari aplikasi desktop Microsoft Windows yang disebut **Power BI Desktop**, layanan SaaS (*Software as a Service*) online yang disebut **layanan Power BI**, dan **aplikasi** Power BI seluler yang tersedia di semua perangkat, dengan aplikasi BI seluler asli untuk Windows, iOS, dan Android.

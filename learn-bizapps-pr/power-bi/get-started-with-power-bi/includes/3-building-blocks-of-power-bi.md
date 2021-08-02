@@ -1,10 +1,10 @@
 ---
 ms.openlocfilehash: 2cdf69d5d11b11f9cfe0a7ec3e618a9c98a9f21f
-ms.sourcegitcommit: de07ea2e336f59d40d519e140bd45151f4b1083a
+ms.sourcegitcommit: fc256996a5a1e957e7e8470042c8d7e3e88c262e
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113101919"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "114653830"
 ---
 Semua yang Anda lakukan di Microsoft Power BI dapat dipecah menjadi beberapa **blok penyusun** dasar. Setelah Anda memahami blok penyusun ini, Anda dapat mendalami masing-masing blok penyusun serta mulai membuat laporan yang rumit dan kompleks. Lagi pula, bahkan hal yang tampaknya kompleks dibangun dari blok penyusun dasar. Misalnya, bangunan dibuat menggunakan kayu, baja, beton, dan kaca; lalu mobil terbuat dari logam, kain, dan karet. Tentu saja bangunan dan mobil juga dapat dibuat secara sederhana ataupun rumit, bergantung pada bagaimana blok penyusun dasar tersebut diatur.
 
