@@ -1,29 +1,23 @@
 ---
-ms.openlocfilehash: 06d47a9fb3a342dff6f901428fa9444fed86d525
-ms.sourcegitcommit: fc256996a5a1e957e7e8470042c8d7e3e88c262e
+ms.openlocfilehash: 4cb4b925e4ee616b4b3f4916f535d2be74a6b3f8ec538177ac0ce5c8f3ed1b34
+ms.sourcegitcommit: 6be2cb8ee7f5f86b6cb0ccfcb0b412126766eebe
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "114653830"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "117025430"
 ---
-**Microsoft Power BI** adalah kumpulan layanan perangkat lunak, aplikasi, dan konektor yang berfungsi bersama untuk mengubah sumber data Anda yang tidak terkait menjadi wawasan yang koheren, imersif secara visual, serta interaktif. Baik data Anda adalah buku kerja Microsoft Excel sederhana, atau kumpulan gudang data hibrida berbasis cloud dan lokal, **Power BI** memungkinkan Anda terhubung ke sumber data, memvisualisasikan (atau menemukan) hal penting, dan membagikannya kepada siapa saja dengan mudah.
+**Microsoft Power BI** adalah kumpulan layanan perangkat lunak, aplikasi, dan konektor yang berfungsi bersama untuk mengubah sumber data Anda yang tidak terkait menjadi wawasan yang koheren, imersif secara visual, serta interaktif. Baik data Anda adalah buku kerja Microsoft Excel sederhana, atau kumpulan gudang data hibrid berbasis cloud dan lokal, **Power BI** memungkinkan Anda terhubung ke sumber data, memvisualisasikan (atau menemukan) hal penting, dan membagikannya kepada siapa saja dengan mudah.
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWFLap]
+![Cara kerja Power BI dengan data lain](../media/pbi-intro_01.png)
 
 **Power BI** bekerja secara sederhana dan tangkas, serta mampu membuat wawasan cepat dari buku kerja Excel atau database lokal. Namun, **Power BI** juga kuat dan dapat digunakan di tingkat perusahaan, sehingga tidak hanya siap untuk pemodelan yang luas dan analitik real-time, tetapi juga untuk pengembangan kustom. Oleh karena itu, Power BI dapat menjadi alat visualisasi dan laporan pribadi Anda, serta dapat berfungsi sebagai analitik dan mesin keputusan di balik proyek grup, divisi, atau seluruh perusahaan.
 
-![Cara Power BI berfungsi bersama data lain untuk berbagi wawasan.](../media/pbi-intro_01.png)
-
 Jika Anda merupakan **pemula** dalam menggunakan Power BI, modul ini akan membantu Anda memahaminya. Jika Anda telah **berpengalaman** dalam menggunakan Power BI, modul ini akan merangkum keseluruhan konsep dan memastikan Anda telah sepenuhnya memahami seluruh informasi.
-
-Berikut adalah laporan kerja Power BI. Jangan ragu untuk mengeklik dan menjelajahinya.
-
-<iframe width="1140" height="540" src=https://msit.powerbi.com/view?r=eyJrIjoiNmYzNDVmOGItOWMzZi00OTI1LWFlNTctNDljMzAzMDIxNWUzIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9 frameborder="0" allowFullScreen="true"></iframe>
 
 ## <a name="the-parts-of-power-bi"></a>Bagian dari Power BI
 Power BI terdiri dari aplikasi desktop Microsoft Windows yang disebut **Power BI Desktop**, layanan SaaS (*Software as a Service*) online yang disebut **layanan Power BI**, dan **aplikasi** Power BI seluler yang tersedia di semua perangkat, dengan aplikasi BI seluler asli untuk Windows, iOS, dan Android.
 
-![Bagian dari Power BI: desktop, layanan, dan seluler.](../media/pbi-intro_02.png)
+![Bagian dari Power BI](../media/pbi-intro_02.png)
 
 Ketiga elemen ini—aplikasi **Desktop**, **layanan**, dan **Seluler**—dirancang untuk memungkinkan orang membuat, berbagi, dan menggunakan wawasan bisnis seefektif mungkin untuk melayani mereka atau berdasarkan peran mereka.
 

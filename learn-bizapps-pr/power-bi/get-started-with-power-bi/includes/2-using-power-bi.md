@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 27e1f57827ac2c7e05f757d8e95b45f7978df499
-ms.sourcegitcommit: fc256996a5a1e957e7e8470042c8d7e3e88c262e
+ms.openlocfilehash: 43c9999c0a55ddec7a47b62408c4af329a62b9cb87e7f802582ebe405fed0e8c
+ms.sourcegitcommit: 6be2cb8ee7f5f86b6cb0ccfcb0b412126766eebe
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "114653830"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "117025430"
 ---
-Sekarang setelah kami memperkenalkan dasar-dasar Microsoft Power BI, mari kita terjun ke pengalaman langsung dan mengikuti tur panduan.
+Sekarang setelah kami memperkenalkan dasar-dasar Microsoft Power BI, mari kita terjun ke pengalaman langsung dan mengikuti tur panduan. 
 
 Aktivitas dan analisis yang akan Anda pelajari menggunakan Power BI biasanya mengikuti alur umum. **Alur umum** aktivitas terjadi seperti ini:
 
@@ -15,8 +15,9 @@ Aktivitas dan analisis yang akan Anda pelajari menggunakan Power BI biasanya men
 3. Membagikan dasbor dengan orang lain, terutama orang-orang yang sedang bepergian.
 4. Menampilkan dan berinteraksi dengan dasbor dan laporan bersama di aplikasi Power BI Mobile.
 
-![Gambar siklus penggunaan Power BI dari Power BI Desktop, ke layanan Power BI, lalu ke Power BI Mobile.](../media/pbi-using_01.png)
+![Siklus penggunaan Power BI](../media/pbi-using_01.png)
 
-Seperti yang telah disebutkan sebelumnya, Anda mungkin menghabiskan seluruh waktu Anda di **layanan Power BI**, menampilkan visual dan laporan yang telah dibuat oleh orang lain. Hal ini bukanlah sebuah masalah. Orang lain di tim Anda mungkin menghabiskan waktu mereka di **Power BI Desktop**, yang juga bukan merupakan sebuah masalah. Untuk membantu Anda memahami kontinum penuh Power BI dan apa yang dapat dilakukannya, kami akan menunjukkan semuanya kepada Anda. Kemudian, Anda dapat memutuskan cara menggunakan Power BI untuk keuntungan terbaik Anda.
+Seperti yang telah disebutkan sebelumnya, Anda mungkin menghabiskan seluruh waktu Anda di **layanan Power BI**, melihat visual dan laporan yang telah dibuat oleh orang lain. Hal ini bukanlah sebuah masalah. Orang lain di tim Anda mungkin menghabiskan waktu mereka di **Power BI Desktop**, yang juga bukan merupakan sebuah masalah. Untuk membantu Anda memahami kontinum penuh Power BI dan apa yang dapat dilakukannya, kami akan menunjukkan semuanya kepada Anda. Kemudian, Anda dapat memutuskan cara menggunakan Power BI untuk keuntungan terbaik Anda.
 
 Jadi, mari segera mempelajarinya. Urutan pertama bisnis Anda adalah mempelajari blok penyusun dasar Power BI, yang akan memberikan dasar kuat untuk mengubah data menjadi laporan dan visual yang keren.
+

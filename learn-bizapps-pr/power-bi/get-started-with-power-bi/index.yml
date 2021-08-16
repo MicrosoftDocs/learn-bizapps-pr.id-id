@@ -3,17 +3,17 @@ uid: learn-bizapps.get-started-with-power-bi
 metadata:
   title: Mulai membuat dengan Power BI
   description: Power BI adalah kumpulan aplikasi dan layanan perangkat lunak yang memungkinkan Anda terhubung ke semua jenis sumber data serta membuat laporan dan visual yang menarik. Dengan menerima laporan tersebut, Anda dapat memanfaatkannya atau membagikannya kepada orang lain di dalam maupun di luar organisasi. Pelajari dasar-dasar Power BI, cara layanan dan aplikasinya berfungsi bersama, serta bagaimana layanan dan aplikasi tersebut dapat digunakan untuk membuat atau mendapatkan pengalaman visual dan analitik yang menarik berdasarkan data Anda.
-  ms.date: 02/01/2019
+  ms.date: 07/20/2021
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.prod: learning-power-bi
-  ms.openlocfilehash: f9e65032da425b043106a30cd6bd53a781fd266f
-  ms.sourcegitcommit: fc256996a5a1e957e7e8470042c8d7e3e88c262e
+  ms.openlocfilehash: dc09dc8c86a0e1b0608fa30048abedd79adb219a71945643f11a7aa41f3621a7
+  ms.sourcegitcommit: 6be2cb8ee7f5f86b6cb0ccfcb0b412126766eebe
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "114653830"
+  ms.lasthandoff: 08/10/2021
+  ms.locfileid: "117025430"
 title: Mulai membuat dengan Power BI
 summary: >
   [!include[](../includes/module-banner.md)]
