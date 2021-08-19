@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 4cb4b925e4ee616b4b3f4916f535d2be74a6b3f8ec538177ac0ce5c8f3ed1b34
-ms.sourcegitcommit: 6be2cb8ee7f5f86b6cb0ccfcb0b412126766eebe
+ms.openlocfilehash: f7294bc764cdd7bfb90a8f773f8c8a97a8b892d9
+ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "117025430"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121808726"
 ---
 **Microsoft Power BI** adalah kumpulan layanan perangkat lunak, aplikasi, dan konektor yang berfungsi bersama untuk mengubah sumber data Anda yang tidak terkait menjadi wawasan yang koheren, imersif secara visual, serta interaktif. Baik data Anda adalah buku kerja Microsoft Excel sederhana, atau kumpulan gudang data hibrid berbasis cloud dan lokal, **Power BI** memungkinkan Anda terhubung ke sumber data, memvisualisasikan (atau menemukan) hal penting, dan membagikannya kepada siapa saja dengan mudah.
 
@@ -44,7 +44,7 @@ Anda dapat mengunduh Power BI Desktop dari web atau sebagai aplikasi dari Micros
 ## <a name="sign-in-to-power-bi-service"></a>Masuk ke layanan Power BI
 Sebelum dapat masuk ke Power BI, Anda memerlukan sebuah akun. Untuk mendapatkan uji coba gratis, buka <a href="https://go.microsoft.com/fwlink/?linkid=2101313" target="_blank">app.powerbi.com</a> dan daftar menggunakan alamat email Anda. 
 
-Untuk langkah mendetail dalam menyiapkan akun, lihat [Masuk ke layanan Power BI](https://docs.microsoft.com/power-bi/consumer/end-user-sign-in)
+Untuk langkah mendetail dalam menyiapkan akun, lihat [Masuk ke layanan Power BI](/power-bi/consumer/end-user-sign-in)
 
 ## <a name="the-flow-of-work-in-power-bi"></a>Alur kerja di Power BI
 Alur kerja umum di Power BI dimulai dari **Power BI Desktop** tempat laporan dibuat. Laporan tersebut kemudian diterbitkan ke **layanan Power BI** dan akhirnya dibagikan, sehingga pengguna aplikasi **Power BI Mobile** dapat menggunakan informasi tersebut.

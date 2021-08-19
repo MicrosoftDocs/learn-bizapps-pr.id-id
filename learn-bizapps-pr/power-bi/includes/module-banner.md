@@ -1,9 +1,9 @@
 ---
 ms.topic: banner
-ms.openlocfilehash: acd1b151facc258a0de5015b7aa676b1c9add431058f83aed8fcfa1906e85efe
-ms.sourcegitcommit: 6be2cb8ee7f5f86b6cb0ccfcb0b412126766eebe
+ms.openlocfilehash: 1d1e82ffc567e210e114c60501c5c8207c42baeb
+ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "117025430"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121808726"
 ---
