@@ -8,12 +8,13 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.prod: learning-power-bi
-  ms.openlocfilehash: 9d5435e4e663bb19876a37a8154fad0a447f3f06
-  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.custom: intro-internal
+  ms.openlocfilehash: c0f5280f65e9bc919627a4fb88116977f6e23d4a
+  ms.sourcegitcommit: 892e5c8a5417e203e104282bf452450426b35c4b
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "121808726"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "128061660"
 title: Mulai membuat dengan Power BI
 summary: >
   [!include[](../includes/module-banner.md)]

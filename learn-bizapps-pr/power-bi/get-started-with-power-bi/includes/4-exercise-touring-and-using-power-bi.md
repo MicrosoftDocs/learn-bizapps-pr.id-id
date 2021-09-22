@@ -1,10 +1,10 @@
 ---
 ms.openlocfilehash: 18607f18b9f373b8569ac718ce1a1be970a05774
-ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+ms.sourcegitcommit: 892e5c8a5417e203e104282bf452450426b35c4b
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121808726"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "128061660"
 ---
 Seperti yang dipelajari di unit sebelumnya, alur kerja umum di Microsoft Power BI adalah membuat laporan di Power BI Desktop, menerbitkannya ke layanan Power BI, lalu membagikannya dengan orang lain sehingga mereka dapat melihatnya di layanan atau di aplikasi seluler.
 
