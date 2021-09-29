@@ -1,10 +1,10 @@
 ---
 ms.openlocfilehash: ec4bfc1890cb7f4e93e730f15957851f1dc28547
-ms.sourcegitcommit: 892e5c8a5417e203e104282bf452450426b35c4b
+ms.sourcegitcommit: b4ac949c6ffd667a5a0fd68846b28c9887b6e408
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "128061660"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "129167729"
 ---
 Sekarang setelah kami memperkenalkan dasar-dasar Microsoft Power BI, mari kita terjun ke pengalaman langsung dan mengikuti tur panduan. 
 
