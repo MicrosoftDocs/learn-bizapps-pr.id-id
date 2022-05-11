@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.manage-workspaces-datasets-power-bi
+metadata:
+  title: Mengelola ruang kerja dan himpunan data di Power BI
+  description: Setelah Anda membuat kumpulan dan laporan data Power BI, saatnya untuk menyebarkannya sehingga pengguna dapat memanfaatkan semua kerja keras Anda. Di Jalur Pembelajaran ini, Anda akan mempelajari cara membuat ruang kerja di layanan Power BI. Anda akan menyebarkan artefak Power BI Anda di sini dan membagikannya kepada pengguna Anda. Anda juga akan mempelajari cara menghubungkan laporan Power BI ke sumber data lokal. Pengguna Anda akan lebih menghargai jika Anda memasukkan data terbaru dalam laporan Anda, sehingga Anda harus mengonfigurasi refresh otomatis untuk himpunan data Power BI Anda. Keamanan tingkat baris memungkinkan Anda membuat satu laporan, tetapi pengguna dibatasi untuk hanya dapat melihat data yang berlaku untuk mereka. Hal ini mampu membuat data yang khusus untuk pengguna, tanpa harus membuat beberapa laporan.
+  ms.date: 06/30/2020
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: db34fae49a1f85290e66122b39215dd46e5858a1
+  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "144848824"
+title: Mengelola ruang kerja dan himpunan data di Power BI
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  Setelah Anda membuat kumpulan dan laporan data Power BI, saatnya untuk menyebarkannya sehingga pengguna dapat memanfaatkan semua kerja keras Anda. Di Jalur Pembelajaran ini, Anda akan mempelajari cara membuat ruang kerja di layanan Power BI. Anda akan menyebarkan artefak Power BI Anda di sini dan membagikannya kepada pengguna Anda. Anda juga akan mempelajari cara menghubungkan laporan Power BI ke sumber data lokal. Pengguna Anda akan lebih menghargai jika Anda memasukkan data terbaru dalam laporan Anda, sehingga Anda harus mengonfigurasi refresh otomatis untuk himpunan data Power BI Anda. Keamanan tingkat baris memungkinkan Anda membuat satu laporan, tetapi pengguna dibatasi untuk hanya dapat melihat data yang berlaku untuk mereka. Hal ini mampu membuat data yang khusus untuk pengguna, tanpa harus membuat beberapa laporan.
+
+
+  Jalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate/?azure-portal=true).
+prerequisites: Tidak ada
+iconUrl: /learn/achievements/deploy-and-maintain-data-in-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+modules:
+- learn-bizapps.create-manage-workspaces-power-bi
+- learn-bizapps.manage-datasets-power-bi
+- learn-bizapps.row-level-security-power-bi
+trophy:
+  uid: learn-bizapps.manage-workspaces-datasets-power-bi.trophy

@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.visual-data-power-bi
+metadata:
+  title: Memvisualisasikan data dengan Power BI
+  description: Power BI memiliki visual luar biasa yang dapat digunakan pada laporan dan dasbor Power BI. Dalam modul ini, Anda akan belajar kapan harus menggunakan visual mana untuk memecahkan masalah mana. Anda juga akan mempelajari desain laporan dan pemformatan laporan. Selain itu, Anda akan belajar cara menggunakan navigasi laporan untuk menceritakan kisah berbasis data yang menarik di Power BI. Dasbor akan membantu pengguna Anda menargetkan visual laporan untuk memenuhi kebutuhan spesifik mereka. Laporan siap cetak membantu Anda membuat artefak laporan yang sempurna seperti faktur penjualan, pesanan pembelian, catatan medis, laporan transaksi, dan banyak lagi.
+  ms.date: 06/30/2020
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: bbe382b225b2abb804a90892bdb0b1369249537c
+  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "144848822"
+title: Memvisualisasikan data dengan Power BI
+summary: "[!include[](../../includes/lp-banner.md)]\nPower BI memiliki visual luar biasa yang dapat digunakan pada laporan dan dasbor Power BI. Dalam modul ini, Anda akan belajar kapan harus menggunakan visual mana untuk memecahkan masalah mana. Anda juga akan mempelajari desain laporan dan pemformatan laporan. Selain itu, Anda akan belajar cara menggunakan navigasi laporan untuk menceritakan kisah berbasis data yang menarik di Power BI. Dasbor akan membantu pengguna Anda menargetkan visual laporan untuk memenuhi kebutuhan spesifik mereka. Laporan siap cetak membantu Anda membuat artefak laporan yang sempurna seperti faktur penjualan, pesanan pembelian, catatan medis, laporan transaksi, dan banyak lagi.  \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate/?azure-portal=true).\n"
+prerequisites: Tidak ada
+iconUrl: /learn/achievements/data-visualization-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+modules:
+- learn-bizapps.visuals-power-bi
+- learn-bizapps.data-driven-story-power-bi
+- learn-bizapps.create-dashboards-power-bi
+- learn-bizapps.create-paginated-reports-power-bi
+trophy:
+  uid: learn-bizapps.visual-data-power-bi.trophy

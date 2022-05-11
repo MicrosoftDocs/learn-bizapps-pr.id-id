@@ -1,0 +1,32 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.model-power-bi
+metadata:
+  title: Data model dalam Power BI
+  description: Kesuksesan dalam Power BI dimulai dengan model data yang hebat. Dalam modul ini, Anda akan belajar bagaimana merancang model data yang intuitif, berkinerja tinggi, dan mudah dirawat. Anda akan belajar tentang menggunakan bahasa DAX untuk menciptakan ukuran. Langkah-langkah tersebut akan membantu Anda menciptakan berbagai solusi analitis. Selain itu, Anda akan mempelajari cara meningkatkan kinerja dengan tugas pengambilan data Power Query.
+  ms.date: 06/30/2020
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: 3d93c6e47cb9b46eb97626f1cb3edfe983715915
+  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "144848820"
+title: Data model dalam Power BI
+summary: "[!include[](../../includes/lp-banner.md)]\nKesuksesan dalam Power BI dimulai dengan model data yang hebat. Dalam modul ini, Anda akan belajar bagaimana merancang model data yang intuitif, berkinerja tinggi, dan mudah dirawat. Anda akan belajar tentang menggunakan bahasa DAX untuk menciptakan ukuran. Langkah-langkah tersebut akan membantu Anda menciptakan berbagai solusi analitis. Selain itu, Anda akan mempelajari cara meningkatkan kinerja dengan tugas pengambilan data Power Query.  \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate/?azure-portal=true).\n"
+prerequisites: Tidak ada
+iconUrl: /learn/achievements/model-data-in-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+modules:
+- learn-bizapps.design-model-power-bi
+- learn-bizapps.create-measures-dax-power-bi
+- learn-bizapps.optimize-model-power-bi
+trophy:
+  uid: learn-bizapps.model-data-power-bi.trophy
