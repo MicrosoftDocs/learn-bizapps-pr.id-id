@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn.wwl.power-bi-paginated-reports
+metadata:
+  title: 'Bersiap untuk mengajar: Laporan Power BI bernomor halaman dalam sehari'
+  description: 'Bersiap untuk mengajar: Laporan Power BI bernomor halaman dalam sehari'
+  ms.date: 01/28/2021
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: bfd952571a70decbb39b26ab68ae7c59b756c661dc53606738e51f5bd32abdcc
+  ms.sourcegitcommit: 749f0061c34a48b46c464772bfd8a697fc545238
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/05/2021
+  ms.locfileid: "144848836"
+title: 'Bersiap untuk mengajar: Laporan Power BI bernomor halaman dalam sehari'
+prerequisites: >
+  Pemahaman dasar tentang alat pelaporan
+summary: >
+  Menjelaskan dan menunjukkan cara membuat, menerbitkan, dan mendistribusikan laporan Power BI bernomor halaman.
+iconUrl: /learn/achievements/create-and-demonstrate-power-bi-paginated-reports.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+- azure-powerbi-embedded
+modules:
+- learn.wwl.prepare-to-teach-module-power-bi-reporting
+- learn.wwl.prepare-to-teach-module-design-report-layouts
+- learn.wwl.prepare-to-teach-module-retrieve-report-data
+- learn.wwl.prepare-to-teach-module-work-with-parameters
+- learn.wwl.prepare-to-teach-module-visualize-report-data
+- learn.wwl.prepare-to-teach-module-add-interactivity-features
+- learn.wwl.prepare-to-teach-module-beyond-report-development
+trophy:
+  uid: learn.wwl.power-bi-paginated-reports.trophy

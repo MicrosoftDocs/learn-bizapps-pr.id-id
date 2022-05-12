@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.implement-logic-winautomation
+metadata:
+  title: Menerapkan logika tingkat lanjut di WinAutomation
+  description: Pelajari cara menerapkan winAutomation logika tingkat lanjut.
+  ms.date: 09/25/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-automate
+  ms.openlocfilehash: 0180de935a73bea92a724a62f07dab8b09adadb8718d03ae9dfa6ad027231b1e
+  ms.sourcegitcommit: 8c28e3f355be6208ed6f5a1dffc5316700546070
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/07/2021
+  ms.locfileid: "144848831"
+title: Menerapkan logika tingkat lanjut di WinAutomation
+summary: "[!include[](../../includes/lp-banner.md)]\nLogika di WinAutomation akan membantu proses otomatisasi. Dalam Jalur Pembelajaran ini, pelajari cara bekerja dengan proses sistem, kontrol aliran, meniru tindakan mouse, serta memanipulasi teks, tanggal, dan operasi waktu. \n"
+prerequisites: Pemahaman dasar tentang WinAutomation dan logika algoritma.
+iconUrl: /learn/achievements/implement-logic-winautomation.svg
+levels:
+- intermediate
+roles:
+- administrator
+- maker
+- business-user
+- developer
+- functional-consultant
+products:
+- power-platform
+- power-automate
+modules:
+- learn-bizapps.system-services-actions
+- learn-bizapps.flow-control
+- learn-bizapps.mouse-keyboard
+- learn-bizapps.message-boxes
+- learn-bizapps.text-manipulation
+- learn-bizapps.sync-actions
+trophy:
+  uid: learn-bizapps.implement-logic-winautomation.trophy

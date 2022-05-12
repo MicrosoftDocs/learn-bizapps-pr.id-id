@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn.wwl.modern-excel-analyst
+metadata:
+  title: 'Bersiap untuk mengajar kursus: Analis Excel Modern dalam sehari'
+  description: 'Bersiap untuk mengajar kursus: Analis Excel Modern dalam sehari'
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: interactive-tutorial
+  ms.prod: learning-powerbi
+  ms.openlocfilehash: e1a6553db414a2d4729f8e9c9823435e5e41080fa3e797439a6b14f41b650c75
+  ms.sourcegitcommit: 749f0061c34a48b46c464772bfd8a697fc545238
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/05/2021
+  ms.locfileid: "144848834"
+title: 'Bersiap untuk mengajar kursus: Analis Excel Modern dalam sehari'
+prerequisites: >
+  - Pemahaman dasar tentang analisis data dan alat pelaporan.
+
+  - Pengalaman dengan Excel dan Power BI.
+summary: >
+  Sampaikan kepada pelanggan Analis Data Anda kursus yang dipimpin instruktur "Analis Excel Modern dalam sehari" yang mencakup perluasan Excel dengan Power BI.
+iconUrl: /learn/achievements/modern-excel-analyst.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- business-analyst
+products:
+- office-excel
+- power-bi
+modules:
+- learn.wwl.analytics-excel
+- learn.wwl.mapping-learning-to-power-bi
+- learn.wwl.power-bi-excel-better-together
+- learn.wwl.power-bi-office-better-together
+- learn.wwl.wrap-up
+trophy:
+  uid: learn.wwl.modern-excel-analyst.trophy

@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.administer-power-bi-part-1
+metadata:
+  title: Mengelola Power BI, Bagian 1 - Penyewa, tata kelola, kolaborasi
+  description: Sebagai administrator, bagaimana Anda mengelola penyewa Power BI? Bagaimana Anda mengonfigurasi pengaturan penyewa, memantau penggunaan, dan menyediakan lisensi dan sumber daya organisasi lainnya? Jalur pembelajaran ini mencakup tugas dan alat umum, seperti portal admin Power BI dan pusat admin Office 365. Anda akan mempelajari cara menetapkan dan memberikan tata kelola untuk lingkungan Power BI dan menyediakan kapasitas Power BI Premium.
+  ms.date: 05/01/2021
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: dd12a0bab073c0ec748c30779b89eeacc91c55cd1c2efeaaf213466843bb9960
+  ms.sourcegitcommit: 8c28e3f355be6208ed6f5a1dffc5316700546070
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/07/2021
+  ms.locfileid: "144848839"
+title: Mengelola Power BI, Bagian 1 - Penyewa, tata kelola, kolaborasi
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  Sebagai administrator, bagaimana Anda mengelola penyewa Power BI? Bagaimana Anda mengonfigurasi pengaturan penyewa, memantau penggunaan, dan menyediakan lisensi dan sumber daya organisasi lainnya? Jalur pembelajaran ini mencakup tugas dan alat umum, seperti portal admin Power BI dan pusat admin Office 365. Anda akan mempelajari cara menetapkan dan memberikan tata kelola untuk lingkungan Power BI dan menyediakan kapasitas Power BI Premium.
+prerequisites: Tidak ada
+iconUrl: /learn/achievements/administer-power-bi-p1.svg
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- power-bi
+modules:
+- learn-bizapps.power-bi-admin-intro
+- learn-bizapps.power-bi-admin-environment
+- learn-bizapps.power-bi-admin-governance
+- learn-bizapps.power-bi-admin-collaboration
+- learn-bizapps.power-bi-admin-monitor
+trophy:
+  uid: learn-bizapps.administer-power-bi-p1.trophy

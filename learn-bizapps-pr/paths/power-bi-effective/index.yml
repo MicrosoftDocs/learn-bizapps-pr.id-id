@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-bi-effective
+metadata:
+  title: Merancang laporan yang efektif dengan Power BI
+  description: Jalur pembelajaran ini memperkenalkan proses desain untuk merancang dan memberikan laporan Power BI yang menarik. Ini dimulai dengan menggambarkan proses desain yang terbukti dibuat oleh pakar desain laporan terkemuka. Proses ini mencakup fase untuk memahami pengguna laporan dan persyaratan mereka, mengeksplorasi desain laporan yang menyenangkan, dan mengembangkan laporan hingga ke produksi.
+  ms.date: 10/21/2021
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: 9ba9faa0d738fc251cf38ea83b0a3644c4f82a68
+  ms.sourcegitcommit: 0eb902c1ef1e4247d258204992ac36c4f60409f3
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/23/2021
+  ms.locfileid: "144848842"
+title: Merancang laporan yang efektif dengan Power BI
+video:
+  title: Merancang laporan yang efektif dengan Power BI
+  url: https://www.microsoft.com/videoplayer/embed/RWNNYw
+summary: "[!include[](../../includes/lp-banner.md)]\nJalur pembelajaran ini memperkenalkan proses desain untuk merancang dan memberikan laporan Power BI yang menarik. Ini dimulai dengan menggambarkan proses desain yang terbukti dibuat oleh pakar desain laporan terkemuka. Proses ini mencakup fase untuk memahami pengguna laporan dan persyaratan mereka, mengeksplorasi desain laporan yang menyenangkan, dan mengembangkan laporan hingga ke produksi. \n"
+prerequisites: Tidak ada
+iconUrl: /learn/achievements/power-bi-effective.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+- business-analyst
+products:
+- power-bi
+modules:
+- learn-bizapps.power-bi-effective-requirements
+- learn-bizapps.power-bi-effective-structure
+- learn-bizapps.power-bi-effective-reports
+- learn-bizapps.power-bi-effective-filters
+- learn-bizapps.power-bi-effective-user-experience
+- learn-bizapps.power-bi-effective-ui
+trophy:
+  uid: learn-bizapps.power-bi-effective.trophy

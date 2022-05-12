@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.work-winautomation-technology
+metadata:
+  title: Bekerja dengan berbagai teknologi di WinAutomation
+  description: Pelajari cara menggunakan teknologi lain dengan WinAutomation.
+  ms.date: 09/25/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-automate
+  ms.openlocfilehash: d99cc8443a26332a324e587c6a35643217139ddc3ccab4390ac258822cc4cc11
+  ms.sourcegitcommit: 8c28e3f355be6208ed6f5a1dffc5316700546070
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/07/2021
+  ms.locfileid: "144848830"
+title: Bekerja dengan berbagai teknologi di WinAutomation
+summary: "[!include[](../../includes/lp-banner.md)]\nJalur Pembelajaran ini mencakup teknologi yang digunakan dengan WinAutomation. Pelajari cara mengotomatiskan penanganan email, Excel, antarmuka pengguna, dan layanan sistem di jalur pembelajaran ini. \n"
+prerequisites: Pemahaman dasar tentang WinAutomation.
+iconUrl: /learn/achievements/work-winautomation-technology.svg
+levels:
+- intermediate
+roles:
+- administrator
+- maker
+- business-user
+- developer
+- functional-consultant
+products:
+- power-platform
+- power-automate
+modules:
+- learn-bizapps.automating-email-handling
+- learn-bizapps.excel-automation
+- learn-bizapps.system-services-actions
+- learn-bizapps.files-folders-handling
+- learn-bizapps.ui-automation
+- learn-bizapps.web-automation
+trophy:
+  uid: learn-bizapps.work-winautomation-technology.trophy

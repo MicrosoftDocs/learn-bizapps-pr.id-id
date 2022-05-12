@@ -1,0 +1,43 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-use-analytics-reports-power-bi
+metadata:
+  title: Membuat dan menggunakan laporan analitik dengan Power BI
+  description: Pelajari cara menggunakan dan membuat laporan kecerdasan bisnis di Power BI.
+  ms.date: 08/08/2019
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: 393b7bc3bcc8c1d1bda4982c2dc6111c11d2eb75
+  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "144848813"
+title: Membuat dan menggunakan laporan analitik dengan Power BI
+summary: "[!include[](../../includes/lp-banner.md)]\nJalur pembelajaran ini memperkenalkan Power BI, serta mengajarkan cara menggunakan dan membuat laporan kecerdasan bisnis. \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Microsoft Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker/?azure-portal=true).\n"
+prerequisites: >
+  - Pemahaman Excel
+
+  - Akses ke layanan Power BI
+
+  - Power BI Desktop
+iconUrl: /learn/achievements/create-use-analytics-reports-power-bi.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- data-analyst
+products:
+- power-platform
+- power-bi
+modules:
+- learn-bizapps.get-started-with-power-bi
+- learn-bizapps.get-data-power-bi
+- learn-bizapps.model-data-power-bi
+- learn-bizapps.visuals-in-power-bi
+- learn-bizapps.explore-data-power-bi
+- learn-bizapps.publish-share-power-bi
+trophy:
+  uid: learn.create-use-analytics-reports-power-bi.trophy

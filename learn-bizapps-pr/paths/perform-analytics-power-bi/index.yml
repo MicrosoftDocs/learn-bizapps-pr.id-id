@@ -1,0 +1,31 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.data-analysis-power-bi
+metadata:
+  title: Analisis data di Power BI
+  description: Penulis laporan dapat menggunakan fitur lain untuk menyempurnakan laporan sebagai wawasan analitik dalam data mereka menggunakan fitur seperti Q&A dan ekspor. Dalam modul ini, Anda akan memeriksa data dan laporan Power BI Anda dan kemudian mengekstrak nilai dengan analisis yang lebih dalam. Selain itu, Anda akan belajar cara mengurutkan data dan cara menyajikan laporan secara kohesif. Anda akan belajar cara mendapatkan ringkasan statistik untuk data Anda dan mengekspor data dari Power BI. Anda juga akan menerapkan dan melakukan analisis lanjutan pada laporan untuk wawasan data yang lebih dalam dan lebih bermakna.
+  ms.date: 06/30/2020
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: c447bbc6e87c78343fa4caa2e44ac6d8d83a4bef
+  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "144848826"
+title: Analisis data di Power BI
+summary: "[!include[](../../includes/lp-banner.md)]\nPenulis laporan dapat menggunakan fitur lain untuk menyempurnakan laporan sebagai wawasan analitik dalam data mereka menggunakan fitur seperti Q&A dan ekspor. Dalam modul ini, Anda akan memeriksa data dan laporan Power BI Anda dan kemudian mengekstrak nilai dengan analisis yang lebih dalam. Selain itu, Anda akan belajar cara mengurutkan data dan cara menyajikan laporan secara kohesif. Anda akan belajar cara mendapatkan ringkasan statistik untuk data Anda dan mengekspor data dari Power BI. Anda juga akan menerapkan dan melakukan analisis lanjutan pada laporan untuk wawasan data yang lebih dalam dan lebih bermakna.   \n\n Jalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate/?azure-portal=true).\n"
+prerequisites: Tidak ada
+iconUrl: /learn/achievements/data-analysis-in-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+modules:
+- learn-bizapps.perform-analytics-power-bi
+- learn-bizapps.ai-visuals-power-bi
+trophy:
+  uid: learn-bizapps.data-in-analysis-power-bi.trophy
