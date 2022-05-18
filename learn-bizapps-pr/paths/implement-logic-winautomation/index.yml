@@ -8,12 +8,12 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.prod: learning-power-automate
-  ms.openlocfilehash: 0180de935a73bea92a724a62f07dab8b09adadb8718d03ae9dfa6ad027231b1e
-  ms.sourcegitcommit: 8c28e3f355be6208ed6f5a1dffc5316700546070
+  ms.openlocfilehash: fc1c1e8fdec55456eb7f07630b9ddd23dd898b53
+  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/07/2021
-  ms.locfileid: "144848831"
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "144975744"
 title: Menerapkan logika tingkat lanjut di WinAutomation
 summary: "[!include[](../../includes/lp-banner.md)]\nLogika di WinAutomation akan membantu proses otomatisasi. Dalam Jalur Pembelajaran ini, pelajari cara bekerja dengan proses sistem, kontrol aliran, meniru tindakan mouse, serta memanipulasi teks, tanggal, dan operasi waktu. \n"
 prerequisites: Pemahaman dasar tentang WinAutomation dan logika algoritma.
@@ -29,6 +29,8 @@ roles:
 products:
 - power-platform
 - power-automate
+subjects:
+- custom-app-development
 modules:
 - learn-bizapps.system-services-actions
 - learn-bizapps.flow-control

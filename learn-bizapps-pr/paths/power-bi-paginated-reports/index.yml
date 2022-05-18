@@ -8,12 +8,12 @@ metadata:
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-  ms.openlocfilehash: bfd952571a70decbb39b26ab68ae7c59b756c661dc53606738e51f5bd32abdcc
-  ms.sourcegitcommit: 749f0061c34a48b46c464772bfd8a697fc545238
+  ms.openlocfilehash: 941216fd397a6c7c07c5f4dbeebdbbddd4d589e6
+  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/05/2021
-  ms.locfileid: "144848836"
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "144974253"
 title: 'Bersiap untuk mengajar: Laporan Power BI bernomor halaman dalam sehari'
 prerequisites: >
   Pemahaman dasar tentang alat pelaporan
@@ -29,6 +29,8 @@ products:
 - power-bi
 - power-platform
 - azure-powerbi-embedded
+subjects:
+- productivity
 modules:
 - learn.wwl.prepare-to-teach-module-power-bi-reporting
 - learn.wwl.prepare-to-teach-module-design-report-layouts

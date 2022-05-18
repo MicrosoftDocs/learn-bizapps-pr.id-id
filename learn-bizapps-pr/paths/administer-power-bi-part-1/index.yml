@@ -8,12 +8,12 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.prod: learning-power-bi
-  ms.openlocfilehash: dd12a0bab073c0ec748c30779b89eeacc91c55cd1c2efeaaf213466843bb9960
-  ms.sourcegitcommit: 8c28e3f355be6208ed6f5a1dffc5316700546070
+  ms.openlocfilehash: 3367c533ccb0f0aceebe3c24b7d6877a0333c573
+  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/07/2021
-  ms.locfileid: "144848839"
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "144975452"
 title: Mengelola Power BI, Bagian 1 - Penyewa, tata kelola, kolaborasi
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -27,6 +27,9 @@ roles:
 - administrator
 products:
 - power-bi
+subjects:
+- collaboration
+- information-protection-governance
 modules:
 - learn-bizapps.power-bi-admin-intro
 - learn-bizapps.power-bi-admin-environment

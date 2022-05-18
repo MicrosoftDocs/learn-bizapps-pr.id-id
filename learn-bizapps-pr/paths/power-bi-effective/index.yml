@@ -8,12 +8,12 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.prod: learning-power-bi
-  ms.openlocfilehash: 9ba9faa0d738fc251cf38ea83b0a3644c4f82a68
-  ms.sourcegitcommit: 0eb902c1ef1e4247d258204992ac36c4f60409f3
+  ms.openlocfilehash: bc47a7eff9c3938979e3380c34396851b7258bae
+  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 10/23/2021
-  ms.locfileid: "144848842"
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "144975403"
 title: Merancang laporan yang efektif dengan Power BI
 video:
   title: Merancang laporan yang efektif dengan Power BI
@@ -28,6 +28,8 @@ roles:
 - business-analyst
 products:
 - power-bi
+subjects:
+- data-visualization
 modules:
 - learn-bizapps.power-bi-effective-requirements
 - learn-bizapps.power-bi-effective-structure

@@ -8,12 +8,12 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.prod: learning-power-bi
-  ms.openlocfilehash: 36f89617714b6e04c581cb55f744a2aebaae1c35
-  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.openlocfilehash: 43b5e11bb56fea6d73c530631699cce789fa59e1
+  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "144848838"
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "144974492"
 title: Mengelola Power BI, Bagian 2 - Premium, Power BI disematkan, otomatisasi
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -27,6 +27,9 @@ roles:
 - administrator
 products:
 - power-bi
+subjects:
+- collaboration
+- information-protection-governance
 modules:
 - learn-bizapps.power-bi-admin-premium
 - learn-bizapps.power-bi-admin-infrastructure

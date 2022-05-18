@@ -8,12 +8,12 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.prod: learning-power-bi
-  ms.openlocfilehash: 393b7bc3bcc8c1d1bda4982c2dc6111c11d2eb75
-  ms.sourcegitcommit: 6483d760200c1c53037c599ccc6c067a4359426b
+  ms.openlocfilehash: 7aba4d77b76f5c9a1bc33468e20f280bddceb1df
+  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "144848813"
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "144973363"
 title: Membuat dan menggunakan laporan analitik dengan Power BI
 summary: "[!include[](../../includes/lp-banner.md)]\nJalur pembelajaran ini memperkenalkan Power BI, serta mengajarkan cara menggunakan dan membuat laporan kecerdasan bisnis. \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Microsoft Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker/?azure-portal=true).\n"
 prerequisites: >
@@ -32,6 +32,8 @@ roles:
 products:
 - power-platform
 - power-bi
+subjects:
+- data-analytics
 modules:
 - learn-bizapps.get-started-with-power-bi
 - learn-bizapps.get-data-power-bi
