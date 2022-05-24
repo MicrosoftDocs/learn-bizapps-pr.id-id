@@ -1,0 +1,42 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-bi-tableau
+metadata:
+  title: Power BI untuk pengguna Tableau
+  description: Apakah Anda pengguna Tableau yang perlu mempelajari Microsoft Power BI? Jalur pembelajaran ini memungkinkan Anda memanfaatkan keterampilan Tableau yang ada untuk membuat laporan dan dasbor berbasis data daya di Power BI. Anda akan belajar menggunakan aplikasi desktop Microsoft Power BI dan layanan Power BI untuk menghubungkan ke data, membuat model, dan memvisualisasikan data, lalu membagikan temuan Anda. Terakhir, kami memberikan panduan tentang cara memproduksi dan memelihara solusi Power BI yang dioptimalkan.
+  ms.date: 04/29/2021
+  author: heyrob
+  ms.author: robde
+  ms.topic: interactive-tutorial
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: 19cc9c2672c68b0a3154fac2c6b3986a299092ee
+  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/12/2022
+  ms.locfileid: "144976388"
+title: Power BI untuk pengguna Tableau
+summary: >
+  [!include[](../../includes/lp-banner.md)]
+
+  Apakah Anda pengguna Tableau yang perlu mempelajari Microsoft Power BI? Jalur pembelajaran ini memungkinkan Anda memanfaatkan keterampilan Tableau yang ada untuk membuat laporan dan dasbor berbasis data daya di Power BI. Anda akan belajar menggunakan aplikasi desktop Microsoft Power BI dan layanan Power BI untuk menghubungkan ke data, membuat model, dan memvisualisasikan data, lalu membagikan temuan Anda. Terakhir, kami memberikan panduan tentang cara memproduksi dan memelihara solusi Power BI yang dioptimalkan.
+prerequisites: Tidak ada
+iconUrl: /learn/achievements/power-bi-tableau.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+- business-user
+products:
+- power-bi
+subjects:
+- data-visualization
+modules:
+- learn-bizapps.power-bi-tableau-intro
+- learn-bizapps.power-bi-tableau-data-connectivity
+- learn-bizapps.power-bi-tableau-calculations
+- learn-bizapps.power-bi-tableau-organize-fields
+- learn-bizapps.power-bi-tableau-visuals
+- learn-bizapps.power-bi-tableau-analytics
+- learn-bizapps.power-bi-tableau-optimize-performance
+trophy:
+  uid: learn-bizapps.power-bi-tableau.trophy

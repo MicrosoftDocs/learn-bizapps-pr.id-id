@@ -1,10 +1,10 @@
 ---
 ms.openlocfilehash: f7294bc764cdd7bfb90a8f773f8c8a97a8b892d9
-ms.sourcegitcommit: 962db7a74bf09c2ddb74b13538a48dcf57ddbf72
+ms.sourcegitcommit: 637740962862cecaf8ba7d53a5ee98394afbb4dd
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "131526007"
+ms.lasthandoff: 05/17/2022
+ms.locfileid: "145046725"
 ---
 **Microsoft Power BI** adalah kumpulan layanan perangkat lunak, aplikasi, dan konektor yang berfungsi bersama untuk mengubah sumber data Anda yang tidak terkait menjadi wawasan yang koheren, imersif secara visual, serta interaktif. Baik data Anda adalah buku kerja Microsoft Excel sederhana, atau kumpulan gudang data hibrid berbasis cloud dan lokal, **Power BI** memungkinkan Anda terhubung ke sumber data, memvisualisasikan (atau menemukan) hal penting, dan membagikannya kepada siapa saja dengan mudah.
 

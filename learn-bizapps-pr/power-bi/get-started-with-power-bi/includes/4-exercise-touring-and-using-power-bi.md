@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 18607f18b9f373b8569ac718ce1a1be970a05774
-ms.sourcegitcommit: 962db7a74bf09c2ddb74b13538a48dcf57ddbf72
+ms.openlocfilehash: 7a2feb332241d0e0fde295e98f013fe8215acccb
+ms.sourcegitcommit: 637740962862cecaf8ba7d53a5ee98394afbb4dd
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "131526007"
+ms.lasthandoff: 05/17/2022
+ms.locfileid: "145046725"
 ---
 Seperti yang dipelajari di unit sebelumnya, alur kerja umum di Microsoft Power BI adalah membuat laporan di Power BI Desktop, menerbitkannya ke layanan Power BI, lalu membagikannya dengan orang lain sehingga mereka dapat melihatnya di layanan atau di aplikasi seluler.
 
@@ -29,7 +29,7 @@ Ada beberapa aplikasi untuk semua jenis layanan online. Gambar berikut menunjukk
 
 ![Layanan Power BI](../media/pbi-touring_03.png)
 
-Untuk tujuan kita, kita akan memilih **GitHub**. GitHub adalah aplikasi untuk mengontrol sumber online. Ketika Anda memilih tombol **Dapatkan sekarang** di kotak untuk aplikasi GitHub, kotak dialog **Sambungkan ke GitHub** muncul. Perhatikan bahwa GitHub tidak mendukung Internet Explorer, jadi pastikan Anda menggunakan browser lain.
+Untuk tujuan kita, kita akan memilih **GitHub**. Perhatikan bahwa aplikasi GitHub memerlukan Power BI Pro. GitHub adalah aplikasi untuk mengontrol sumber online. Ketika Anda memilih tombol **Dapatkan sekarang** di kotak untuk aplikasi GitHub, kotak dialog **Sambungkan ke GitHub** muncul. Perhatikan bahwa GitHub tidak mendukung Internet Explorer, jadi pastikan Anda menggunakan browser lain.
 
 ![Aplikasi GitHub](../media/pbi-touring_03b.png)
 

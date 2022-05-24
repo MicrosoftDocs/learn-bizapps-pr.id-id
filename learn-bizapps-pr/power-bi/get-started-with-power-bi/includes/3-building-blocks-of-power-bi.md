@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 3b96c3715edd5955158ed1e50d148c54699be81e
-ms.sourcegitcommit: 962db7a74bf09c2ddb74b13538a48dcf57ddbf72
+ms.openlocfilehash: 74e429c88d864852943f4bfeea4176ddc93717f1
+ms.sourcegitcommit: 637740962862cecaf8ba7d53a5ee98394afbb4dd
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "131526007"
+ms.lasthandoff: 05/17/2022
+ms.locfileid: "145046725"
 ---
 Semua yang Anda lakukan di Microsoft Power BI dapat dipecah menjadi beberapa **blok penyusun** dasar. Setelah Anda memahami blok penyusun ini, Anda dapat mendalami masing-masing blok penyusun serta mulai membuat laporan yang rumit dan kompleks. Lagi pula, bahkan hal yang tampaknya kompleks dibangun dari blok penyusun dasar. Misalnya, bangunan dibuat menggunakan kayu, baja, beton, dan kaca; lalu mobil terbuat dari logam, kain, dan karet. Tentu saja bangunan dan mobil juga dapat dibuat secara sederhana ataupun rumit, bergantung pada bagaimana blok penyusun dasar tersebut diatur.
 
@@ -52,7 +52,7 @@ Laporan memungkinkan Anda membuat banyak visualisasi (di beberapa halaman jika p
 Anda mungkin memiliki laporan tentang penjualan triwulanan, pertumbuhan produk di segmen tertentu, atau pola migrasi beruang kutub. Apa pun subjeknya, laporan memungkinkan Anda mengumpulkan dan mengatur visualisasi dalam satu halaman (atau lebih).
 
 ## <a name="dashboards"></a>Dasbor
-Saat Anda siap untuk membagikan laporan atau kumpulan visualisasi, Anda dapat membuat **dasbor**. Sama seperti dasbor di mobil, **dasbor** Power BI adalah kumpulan visual dari satu halaman yang dapat Anda bagikan dengan orang lain. Sering kali, ini adalah sekelompok visual terpilih yang memberikan wawasan cepat tentang data atau cerita yang ingin Anda tampilkan.
+Saat Anda siap untuk membagikan laporan atau kumpulan visualisasi, Anda dapat membuat **dasbor**. Sama seperti dasbor di mobil, **dasbor** Power BI adalah kumpulan visual yang dapat Anda bagikan dengan orang lain. Sering kali, ini adalah sekelompok visual terpilih yang memberikan wawasan cepat tentang data atau cerita yang ingin Anda tampilkan.
 
 Dasbor harus muat di satu halaman, sering disebut kanvas (kanvas adalah latar belakang kosong di Power BI Desktop atau layanan, tempat Anda meletakkan visualisasi). Anggap saja seperti kanvas yang digunakan seorang seniman atau pelukis. Ini adalah ruang kerja tempat Anda membuat, menggabungkan, dan mengerjakan ulang visual yang menarik serta memikat.
 Anda dapat membagikan dasbor dengan pengguna atau grup lain, yang kemudian dapat berinteraksi dengan dasbor Anda saat mereka berada di layanan Power BI atau di perangkat seluler.
