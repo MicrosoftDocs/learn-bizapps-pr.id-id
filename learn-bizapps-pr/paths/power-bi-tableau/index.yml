@@ -7,13 +7,13 @@ metadata:
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi
-  ms.openlocfilehash: 19cc9c2672c68b0a3154fac2c6b3986a299092ee
-  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
+  ms.service: powerbi
+  ms.openlocfilehash: 9adc074dd52e4c0d282edb5b7138535976a64fcc
+  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2022
-  ms.locfileid: "144976388"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "147668507"
 title: Power BI untuk pengguna Tableau
 summary: >
   [!include[](../../includes/lp-banner.md)]

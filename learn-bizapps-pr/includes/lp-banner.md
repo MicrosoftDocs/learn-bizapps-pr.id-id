@@ -5,5 +5,5 @@ ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
 ms.translationtype: HT
 ms.contentlocale: id-ID
 ms.lasthandoff: 08/23/2022
-ms.locfileid: "147661392"
+ms.locfileid: "147672375"
 ---

@@ -7,13 +7,13 @@ metadata:
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi
-  ms.openlocfilehash: f930e6a603ec62fa7c011bde27e388758cff34a1
-  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
+  ms.service: powerbi
+  ms.openlocfilehash: 74e70fab38ed163ab7517eb5aaf603a8edf8f29c
+  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2022
-  ms.locfileid: "144975719"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "147672375"
 title: Data model dalam Power BI
 summary: "[!include[](../../includes/lp-banner.md)]\nKesuksesan dalam Power BI dimulai dengan model data yang hebat. Dalam modul ini, Anda akan belajar bagaimana merancang model data yang intuitif, berkinerja tinggi, dan mudah dirawat. Anda akan belajar tentang menggunakan bahasa DAX untuk menciptakan ukuran. Langkah-langkah tersebut akan membantu Anda menciptakan berbagai solusi analitis. Selain itu, Anda akan mempelajari cara meningkatkan kinerja dengan tugas pengambilan data Power Query.  \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate/?azure-portal=true).\n"
 prerequisites: Tidak ada

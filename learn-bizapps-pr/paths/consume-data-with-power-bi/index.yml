@@ -7,13 +7,13 @@ metadata:
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi
-  ms.openlocfilehash: 239c2c6720d9dad2f0a1c8732ae80ef55509f1f2
-  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
+  ms.service: powerbi
+  ms.openlocfilehash: e7f1b1c1a3ddfc9af5a702fddba4de4292fbecdb
+  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2022
-  ms.locfileid: "144974467"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "147669925"
 title: Gunakan data dengan Power BI
 summary: "[!include[](../../includes/lp-banner.md)]\nApakah Anda ingin membuat keputusan bisnis yang didukung oleh data? Pelajari cara melakukannya di Power BI. Pelajari cara bekerja menggunakan Power BI untuk meninjau dan berinteraksi dengan konten ini guna membuat keputusan bisnis dari PC atau perangkat seluler Anda. \n"
 prerequisites: "- Akses ke layanan Power BI\n- Aplikasi Penjualan dan Pemasaran (disediakan dengan kursus)\n- Persyaratan lisensi potensial \n"
