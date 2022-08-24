@@ -7,13 +7,13 @@ metadata:
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi
-  ms.openlocfilehash: 7aba4d77b76f5c9a1bc33468e20f280bddceb1df
-  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
+  ms.service: powerbi
+  ms.openlocfilehash: f9a82a03c395dc088257c0c80ed0b9c58c3fdfcf
+  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2022
-  ms.locfileid: "144973363"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "147663174"
 title: Membuat dan menggunakan laporan analitik dengan Power BI
 summary: "[!include[](../../includes/lp-banner.md)]\nJalur pembelajaran ini memperkenalkan Power BI, serta mengajarkan cara menggunakan dan membuat laporan kecerdasan bisnis. \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Microsoft Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker/?azure-portal=true).\n"
 prerequisites: >

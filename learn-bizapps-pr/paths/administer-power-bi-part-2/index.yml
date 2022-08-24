@@ -7,13 +7,13 @@ metadata:
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi
-  ms.openlocfilehash: 43b5e11bb56fea6d73c530631699cce789fa59e1
-  ms.sourcegitcommit: 1260fb6bcfa6ead6c5a9a3f1f25c57f948ae98e2
+  ms.service: powerbi
+  ms.openlocfilehash: 1eb91a84ba36ff0791cef8c048987419957d6b95
+  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2022
-  ms.locfileid: "144974492"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "147661874"
 title: Mengelola Power BI, Bagian 2 - Premium, Power BI disematkan, otomatisasi
 summary: >
   [!include[](../../includes/lp-banner.md)]

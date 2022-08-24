@@ -7,13 +7,13 @@ metadata:
   author: heyrob
   ms.author: robde
   ms.topic: interactive-tutorial
-  ms.prod: learning-power-bi
-  ms.openlocfilehash: f43cf21143228d3093d5dfa52839a0369db8e795
-  ms.sourcegitcommit: 4ffcf3b5b9328af053582f4919803f896146031f
+  ms.service: powerbi
+  ms.openlocfilehash: 7f7feba036cfca2e8b7673697e88e72cecee53e6
+  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 06/14/2022
-  ms.locfileid: "146321705"
+  ms.lasthandoff: 08/23/2022
+  ms.locfileid: "147659593"
 title: Menggunakan DAX di Power BI Desktop
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -41,5 +41,7 @@ modules:
 - learn-bizapps.dax-power-bi-iterator-functions
 - learn-bizapps.dax-power-bi-modify-filter
 - learn-bizapps.dax-power-bi-time-intelligence
+- learn-bizapps.dax-power-bi-calculation-groups
+- learn-bizapps.dax-power-bi-solve-problems
 trophy:
   uid: learn-bizapps.use-dax-power-bi-desktop.trophy
