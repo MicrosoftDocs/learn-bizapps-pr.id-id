@@ -1,10 +1,10 @@
 ---
 ms.openlocfilehash: a54d0468f4bb3c48e14d3b81538f4ec130e6a9e4
-ms.sourcegitcommit: 6afc28800dc42a10510b401c182799bc37ad00fd
+ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/23/2022
-ms.locfileid: "146554542"
+ms.lasthandoff: 08/23/2022
+ms.locfileid: "147662332"
 ---
 Mari kita lakukan tinjauan cepat tentang apa yang dibahas dalam modul ini.
 
