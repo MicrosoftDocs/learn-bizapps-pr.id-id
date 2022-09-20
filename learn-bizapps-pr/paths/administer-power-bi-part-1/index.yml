@@ -8,19 +8,19 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.service: powerbi
-  ms.openlocfilehash: 92eda6ce7472acd1b54bae4c581c5f2cb6d6dd82
-  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
+  ms.openlocfilehash: cf721bf439ebf44ca74a60058c6d5f64dbf166ff
+  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "147671582"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "147931818"
 title: Mengelola Power BI, Bagian 1 - Penyewa, tata kelola, kolaborasi
 summary: >
   [!include[](../../includes/lp-banner.md)]
 
   Sebagai administrator, bagaimana Anda mengelola penyewa Power BI? Bagaimana Anda mengonfigurasi pengaturan penyewa, memantau penggunaan, dan menyediakan lisensi dan sumber daya organisasi lainnya? Jalur pembelajaran ini mencakup tugas dan alat umum, seperti portal admin Power BI dan pusat admin Office 365. Anda akan mempelajari cara menetapkan dan memberikan tata kelola untuk lingkungan Power BI dan menyediakan kapasitas Power BI Premium.
 prerequisites: Tidak ada
-iconUrl: /learn/achievements/administer-power-bi-p1.svg
+iconUrl: /training/achievements/administer-power-bi-p1.svg
 levels:
 - intermediate
 roles:

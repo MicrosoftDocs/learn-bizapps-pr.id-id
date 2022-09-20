@@ -8,16 +8,16 @@ metadata:
   ms.author: dbeasley
   ms.topic: interactive-tutorial
   ms.service: power-automate
-  ms.openlocfilehash: 82eee094e13f446a9562bfb419413d7eaa12969a
-  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
+  ms.openlocfilehash: e92c6c3c6918eb8ac9d2fe0e303d836ede0342b0
+  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "147669708"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "147932182"
 title: Bekerja dengan berbagai teknologi di WinAutomation
 summary: "[!include[](../../includes/lp-banner.md)]\nJalur Pembelajaran ini mencakup teknologi yang digunakan dengan WinAutomation. Pelajari cara mengotomatiskan penanganan email, Excel, antarmuka pengguna, dan layanan sistem di jalur pembelajaran ini. \n"
 prerequisites: Pemahaman dasar tentang WinAutomation.
-iconUrl: /learn/achievements/work-winautomation-technology.svg
+iconUrl: /training/achievements/work-winautomation-technology.svg
 levels:
 - intermediate
 roles:

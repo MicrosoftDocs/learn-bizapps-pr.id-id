@@ -8,21 +8,21 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.service: powerbi
-  ms.openlocfilehash: f9a82a03c395dc088257c0c80ed0b9c58c3fdfcf
-  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
+  ms.openlocfilehash: 7e8ba7b12bbe1683a0ccdd046915e2d8de858ba1
+  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "147663174"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "147934010"
 title: Membuat dan menggunakan laporan analitik dengan Power BI
-summary: "[!include[](../../includes/lp-banner.md)]\nJalur pembelajaran ini memperkenalkan Power BI, serta mengajarkan cara menggunakan dan membuat laporan kecerdasan bisnis. \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Microsoft Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker/?azure-portal=true).\n"
+summary: "[!include[](../../includes/lp-banner.md)]\nJalur pembelajaran ini memperkenalkan Power BI, serta mengajarkan cara menggunakan dan membuat laporan kecerdasan bisnis. \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Microsoft Power Platform App Maker Associate](/certifications/power-platform-app-maker/?azure-portal=true).\n"
 prerequisites: >
   - Pemahaman Excel
 
   - Akses ke layanan Power BI
 
   - Power BI Desktop
-iconUrl: /learn/achievements/create-use-analytics-reports-power-bi.svg
+iconUrl: /training/achievements/create-use-analytics-reports-power-bi.svg
 levels:
 - beginner
 roles:

@@ -8,12 +8,12 @@ metadata:
   ms.author: bgeoffro
   ms.topic: interactive-tutorial
   ms.service: powerbi
-  ms.openlocfilehash: 13f4bdf011d9afef35a4e6d9dd835d11a71e05fa
-  ms.sourcegitcommit: 904afc9a3ee4963b1571c051b236e708ddec5aa2
+  ms.openlocfilehash: 03505854b34cc4923a209a2af213aa6844707004
+  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/31/2022
-  ms.locfileid: "147714294"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "147931582"
 title: 'Bersiap untuk mengajar kursus: Analis Excel Modern dalam sehari'
 prerequisites: >
   - Pemahaman dasar tentang analisis data dan alat pelaporan.
@@ -21,7 +21,7 @@ prerequisites: >
   - Pengalaman dengan Excel dan Power BI.
 summary: >
   Sampaikan kepada pelanggan Analis Data Anda kursus yang dipimpin instruktur "Analis Excel Modern dalam sehari" yang mencakup perluasan Excel dengan Power BI.
-iconUrl: /learn/achievements/modern-excel-analyst.svg
+iconUrl: /training/achievements/modern-excel-analyst.svg
 hidden: true
 levels:
 - intermediate

@@ -8,12 +8,12 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.service: powerbi
-  ms.openlocfilehash: 14150964549d5c4a1d29fc967b230a390eebe617
-  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
+  ms.openlocfilehash: 7279d139c8ab36cefa2697746289049cd2e876e6
+  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "147656348"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "147931146"
 title: Mengelola ruang kerja dan himpunan data di Power BI
 summary: >
   [!include[](../../includes/lp-banner.md)]
@@ -21,9 +21,9 @@ summary: >
   Setelah Anda membuat kumpulan dan laporan data Power BI, saatnya untuk menyebarkannya sehingga pengguna dapat memanfaatkan semua kerja keras Anda. Di Jalur Pembelajaran ini, Anda akan mempelajari cara membuat ruang kerja di layanan Power BI. Anda akan menyebarkan artefak Power BI Anda di sini dan membagikannya kepada pengguna Anda. Anda juga akan mempelajari cara menghubungkan laporan Power BI ke sumber data lokal. Pengguna Anda akan lebih menghargai jika Anda memasukkan data terbaru dalam laporan Anda, sehingga Anda harus mengonfigurasi refresh otomatis untuk himpunan data Power BI Anda. Keamanan tingkat baris memungkinkan Anda membuat satu laporan, tetapi pengguna dibatasi untuk hanya dapat melihat data yang berlaku untuk mereka. Hal ini mampu membuat data yang khusus untuk pengguna, tanpa harus membuat beberapa laporan.
 
 
-  Jalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate/?azure-portal=true).
+  Jalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/certifications/data-analyst-associate/?azure-portal=true).
 prerequisites: Tidak ada
-iconUrl: /learn/achievements/deploy-and-maintain-data-in-power-bi.svg
+iconUrl: /training/achievements/deploy-and-maintain-data-in-power-bi.svg
 levels:
 - intermediate
 roles:

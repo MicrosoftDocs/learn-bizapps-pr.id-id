@@ -8,16 +8,16 @@ metadata:
   ms.author: robde
   ms.topic: interactive-tutorial
   ms.service: powerbi
-  ms.openlocfilehash: 49b4ab5dbcb1f8409bb713a9bd95ee27a20a0bd5
-  ms.sourcegitcommit: f24d728de5ce6626427e3b2926d9a1673e6c9197
+  ms.openlocfilehash: 23fc506d8ba6337c9abf47628a077cca523f51d6
+  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/23/2022
-  ms.locfileid: "147665962"
+  ms.lasthandoff: 09/15/2022
+  ms.locfileid: "147933266"
 title: Memvisualisasikan data di Power BI
-summary: "[!include[](../../includes/lp-banner.md)]\nPower BI memiliki visual luar biasa yang dapat digunakan pada laporan dan dasbor Power BI. Dalam modul ini, Anda akan belajar kapan harus menggunakan visual mana untuk memecahkan masalah mana. Anda juga akan mempelajari desain laporan dan pemformatan laporan. Selain itu, Anda akan belajar cara menggunakan navigasi laporan untuk menceritakan kisah berbasis data yang menarik di Power BI. Dasbor akan membantu pengguna Anda menargetkan visual laporan untuk memenuhi kebutuhan spesifik mereka. Laporan siap cetak membantu Anda membuat artefak laporan yang sempurna seperti faktur penjualan, pesanan pembelian, catatan medis, laporan transaksi, dan banyak lagi.  \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate/?azure-portal=true).\n"
+summary: "[!include[](../../includes/lp-banner.md)]\nPower BI memiliki visual luar biasa yang dapat digunakan pada laporan dan dasbor Power BI. Dalam modul ini, Anda akan belajar kapan harus menggunakan visual mana untuk memecahkan masalah mana. Anda juga akan mempelajari desain laporan dan pemformatan laporan. Selain itu, Anda akan belajar cara menggunakan navigasi laporan untuk menceritakan kisah berbasis data yang menarik di Power BI. Dasbor akan membantu pengguna Anda menargetkan visual laporan untuk memenuhi kebutuhan spesifik mereka. Laporan siap cetak membantu Anda membuat artefak laporan yang sempurna seperti faktur penjualan, pesanan pembelian, catatan medis, laporan transaksi, dan banyak lagi.  \n\nJalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/certifications/data-analyst-associate/?azure-portal=true).\n"
 prerequisites: Tidak ada
-iconUrl: /learn/achievements/data-visualization-power-bi.svg
+iconUrl: /training/achievements/data-visualization-power-bi.svg
 levels:
 - intermediate
 roles:
