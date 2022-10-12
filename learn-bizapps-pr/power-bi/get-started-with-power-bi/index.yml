@@ -9,12 +9,12 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: powerbi
   ms.custom: intro-internal
-  ms.openlocfilehash: b30624ab8c1ffd9b643bd56aa12941435eba5185
-  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
-  ms.translationtype: HT
+  ms.openlocfilehash: e3c80afe2a838fb63b277365c74746d7329db03d
+  ms.sourcegitcommit: 74463616d9dcc1feb7d8e21eb4db902106820aee
+  ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/15/2022
-  ms.locfileid: "147933940"
+  ms.lasthandoff: 10/07/2022
+  ms.locfileid: "148011696"
 title: Mulai membuat dengan Power BI
 summary: >
   [!include[](../includes/module-banner.md)]
@@ -38,7 +38,7 @@ units:
 - learn-bizapps.get-started-with-power-bi.2-using-power-bi
 - learn-bizapps.get-started-with-power-bi.3-building-blocks-of-power-bi
 - learn-bizapps.get-started-with-power-bi.4-exercise-touring-and-using-power-bi
-- learn-bizapps.get-started-with-power-bi.5-summary-cleanup
 - learn-bizapps.get-started-with-power-bi.6-get-started-with-power-bi-quiz
+- learn-bizapps.get-started-with-power-bi.5-summary-cleanup
 badge:
   uid: learn.get-started-power-bi.badge
