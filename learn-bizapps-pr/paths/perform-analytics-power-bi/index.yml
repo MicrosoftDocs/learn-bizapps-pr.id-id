@@ -9,11 +9,11 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: powerbi
   ms.openlocfilehash: cddecaf4dbd340188d254225e47f45d1330fd0b7
-  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
-  ms.translationtype: HT
+  ms.sourcegitcommit: b1698254ccfcb304a687f646740025cb0900a752
+  ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/15/2022
-  ms.locfileid: "147932664"
+  ms.lasthandoff: 10/12/2022
+  ms.locfileid: "148030944"
 title: Analisis data di Power BI
 summary: "[!include[](../../includes/lp-banner.md)]\nPenulis laporan dapat menggunakan fitur lain untuk menyempurnakan laporan sebagai wawasan analitik dalam data mereka menggunakan fitur seperti Q&A dan ekspor. Dalam modul ini, Anda akan memeriksa data dan laporan Power BI Anda dan kemudian mengekstrak nilai dengan analisis yang lebih dalam. Selain itu, Anda akan belajar cara mengurutkan data dan cara menyajikan laporan secara kohesif. Anda akan belajar cara mendapatkan ringkasan statistik untuk data Anda dan mengekspor data dari Power BI. Anda juga akan menerapkan dan melakukan analisis lanjutan pada laporan untuk wawasan data yang lebih dalam dan lebih bermakna.   \n\n Jalur pembelajaran ini dapat membantu Anda mempersiapkan diri untuk [sertifikasi Microsoft Certified: Data Analyst Associate](/certifications/data-analyst-associate/?azure-portal=true).\n"
 prerequisites: Tidak ada

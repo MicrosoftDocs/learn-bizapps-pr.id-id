@@ -9,11 +9,11 @@ metadata:
   ms.topic: interactive-tutorial
   ms.service: power-automate
   ms.openlocfilehash: e92c6c3c6918eb8ac9d2fe0e303d836ede0342b0
-  ms.sourcegitcommit: 4dad420efe7db03dfe52e8981c063eedbf31f3d8
-  ms.translationtype: HT
+  ms.sourcegitcommit: b1698254ccfcb304a687f646740025cb0900a752
+  ms.translationtype: MT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/15/2022
-  ms.locfileid: "147932182"
+  ms.lasthandoff: 10/12/2022
+  ms.locfileid: "148042791"
 title: Bekerja dengan berbagai teknologi di WinAutomation
 summary: "[!include[](../../includes/lp-banner.md)]\nJalur Pembelajaran ini mencakup teknologi yang digunakan dengan WinAutomation. Pelajari cara mengotomatiskan penanganan email, Excel, antarmuka pengguna, dan layanan sistem di jalur pembelajaran ini. \n"
 prerequisites: Pemahaman dasar tentang WinAutomation.
