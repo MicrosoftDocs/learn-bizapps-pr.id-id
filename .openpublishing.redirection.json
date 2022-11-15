@@ -21,6 +21,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-sustainability-overview/microsoft-sustainability-manager.md",
+      "redirect_url": "/training/modules/cloud-sustainability-overview/about-microsoft-cloud",
+      "redirect_document_id": false
+      },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-sustainability-overview/explore-sustainability-manager.md",
+      "redirect_url": "/training/modules/cloud-sustainability-overview/about-microsoft-cloud",
+      "redirect_document_id": false
+      },
+    {
       "source_path": "learn-bizapps-pr/paths/vaccination-management/index.md",
       "redirect_url": "/training/paths/healthcare-in-a-day/",
       "redirect_document_id": false
