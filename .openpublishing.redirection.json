@@ -1,6 +1,26 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/industry-solutions/work-cloud-sustainability/import-data.md",
+      "redirect_url": "/training/modules/work-cloud-sustainability/data-ingestion",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/work-cloud-sustainability/organization-structure.md",
+      "redirect_url": "/training/modules/work-cloud-sustainability/organization-setup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/work-cloud-sustainability/calculate-mobile-combustion.md",
+      "redirect_url": "/training/modules/work-cloud-sustainability/emissions-calcutions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/work-cloud-sustainability/data-flow-process.md",
+      "redirect_url": "/training/modules/sustainability-architecture/data-model-workflow",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/paths/vaccination-management/index.md",
       "redirect_url": "/training/paths/healthcare-in-a-day/",
       "redirect_document_id": false
