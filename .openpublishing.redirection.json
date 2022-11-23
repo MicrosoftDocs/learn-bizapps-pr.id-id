@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/industry-solutions/financial-services-customer-intelligence/2-set-up-deploy.md",
+      "redirect_url": "/training/modules/training-environment-preparation/install-configure-prerequisites",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/industry-solutions/work-cloud-sustainability/import-data.md",
       "redirect_url": "/training/modules/work-cloud-sustainability/data-ingestion",
       "redirect_document_id": false
