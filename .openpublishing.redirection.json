@@ -1,6 +1,86 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/paths/create-business-process-flow/index.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/intro-business-process-flows/1-introduction.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/intro-business-process-flows/2-differences.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/intro-business-process-flows/3-uses.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/intro-business-process-flows/4-check.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/intro-business-process-flows/5-summary.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/intro-business-process-flows/index.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/1-branching.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/2-instant.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/3-enhance.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/4-exercise.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/5-exercise.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/6-exercise.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/7-check.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/8-summary.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/flow/advanced-business-process-flows/index.md",
+      "redirect_url": "/training/modules/introduction-expressions/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/industry-solutions/financial-services-customer-intelligence/2-set-up-deploy.md",
       "redirect_url": "/training/modules/training-environment-preparation/install-configure-prerequisites",
       "redirect_document_id": false
