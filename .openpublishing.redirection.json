@@ -1,6 +1,81 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-studio/setup.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-studio/data.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-architecture/1-introduction.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-architecture/2-provision.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-architecture/3-tools.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-architecture/4-exercise.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-architecture/5-check.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-architecture/6-summary.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-architecture/index.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-features/1-introduction.md",
+      "redirect_url": "/training/modules/power-pages-intro/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-features/2-dynamics-365-features.md",
+      "redirect_url": "/training/modules/power-pages-intro/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-features/3-alternate-applications.md",
+      "redirect_url": "/training/modules/power-pages-intro/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-features/4-check.md",
+      "redirect_url": "/training/modules/power-pages-intro/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-features/5-summary.md",
+      "redirect_url": "/training/modules/power-pages-intro/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-features/index.md",
+      "redirect_url": "/training/modules/power-pages-intro/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/powerapps/intro-model-driven-apps-common-data-service/1-intro-common-data-service.md",
       "redirect_url": "/training/modules/build-first-model-driven-app-dataverse/",
       "redirect_document_id": false
