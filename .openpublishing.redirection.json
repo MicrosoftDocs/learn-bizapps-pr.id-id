@@ -1,6 +1,221 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/settings.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/9-summary.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/8-check.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/7-exercise.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/6-templates.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/5-themes.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/4-source-code.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/3-components.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/2-web-pages.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/1-portals-studio.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/index.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portals-architecture/6-summary.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portals-architecture/5-check.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portals-architecture/4-exercise.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portals-architecture/3-tools.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portals-architecture/2-provision.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portals-architecture/1-introduction.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portals-architecture/index.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portal-features/5-summary.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portal-features/4-check.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portal-features/3-alternate-applications.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portal-features/2-dynamics-365-features.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portal-features/1-introduction.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/portal-features/index.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/modern-community.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/8-summary.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/7-check.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/6-custom.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/5-partner.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/4-employee.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/3-customer.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/2-community.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/1-introduction.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/explore-portals/index.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/7-summary.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/6-check.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/5-extensibility-overview.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/4-portal-security.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/3-portals-core-components.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/2-get-started-portals.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/1-introduction.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/intro-portals/index.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/paths/get-started-power-apps-portals/index.md",
+      "redirect_url": "/training/paths/power-pages-get-started/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/powerapps/power-pages-studio/setup.md",
       "redirect_url": "/training/paths/power-pages-get-started/",
       "redirect_document_id": false
