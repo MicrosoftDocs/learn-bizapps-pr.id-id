@@ -1,6 +1,51 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/index.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/1-introduction.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/2-community.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/3-customer.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/4-employee.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/5-partner.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/6-modern-community.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/7-check.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/8-summary.md",
+      "redirect_url": "/training/modules/power-pages-templates/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/powerapps/explore-portals-studio/settings.md",
       "redirect_url": "/training/paths/power-pages-get-started/",
       "redirect_document_id": false
