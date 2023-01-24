@@ -1,6 +1,46 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/index.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/6-check.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/1-introduction.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/2-unified-profiles.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/3-connected-spaces.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/4-intelligent-recommendations.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/5-clarity.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/7-summary.md",
+      "redirect_url": "/training/paths/get-started-retail/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/powerapps/power-pages-explore/index.md",
       "redirect_url": "/training/modules/power-pages-templates/",
       "redirect_document_id": false
