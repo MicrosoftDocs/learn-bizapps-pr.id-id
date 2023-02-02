@@ -1,6 +1,81 @@
 {
   "redirections": [
     {
+      "source_path": "learn-bizapps-pr/industry-solutions/return-school/1-introduction.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/return-school/2-features-benefits.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/return-school/3-functionality.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/return-school/4-configuration.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/return-school/5-check.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/return-school/6-summary.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/return-school/index.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/introduction-return-workplace-solution/1-introduction.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/introduction-return-workplace-solution/2-features.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/introduction-return-workplace-solution/3-functionality.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/introduction-return-workplace-solution/4-next-steps.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/introduction-return-workplace-solution/5-check.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/introduction-return-workplace-solution/6-summary.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/industry-solutions/introduction-return-workplace-solution/index.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "learn-bizapps-pr/paths/return-work-school/index.md",
+      "redirect_url": "https://appsource.microsoft.com/product/dynamics-365/msemr.pprtwsoln",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "learn-bizapps-pr/industry-solutions/cloud-retail-get-started/index.md",
       "redirect_url": "/training/paths/get-started-retail/",
       "redirect_document_id": false
